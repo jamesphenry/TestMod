@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 14
 VisualStudioVersion = 14.0.22823.1
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{BE0A4C86-FC82-4F70-8ED6-D24C8B13E7BF}") = "TestMod", "TestMod\TestMod.javaproj", "{13D87C97-3AA1-47E4-9B26-9ECFB9DE7086}"
+Project("{BE0A4C86-FC82-4F70-8ED6-D24C8B13E7BF}") = "TestMod", "TestMod\TestMod.javaproj", "{5E0597AC-9B27-45B5-9B6A-69D3B85727E5}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,10 +11,10 @@ Global
 		DebugServer|Any CPU = DebugServer|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{13D87C97-3AA1-47E4-9B26-9ECFB9DE7086}.DebugClient|Any CPU.ActiveCfg = DebugClient|Any CPU
-		{13D87C97-3AA1-47E4-9B26-9ECFB9DE7086}.DebugClient|Any CPU.Build.0 = DebugClient|Any CPU
-		{13D87C97-3AA1-47E4-9B26-9ECFB9DE7086}.DebugServer|Any CPU.ActiveCfg = DebugServer|Any CPU
-		{13D87C97-3AA1-47E4-9B26-9ECFB9DE7086}.DebugServer|Any CPU.Build.0 = DebugServer|Any CPU
+		{5E0597AC-9B27-45B5-9B6A-69D3B85727E5}.DebugClient|Any CPU.ActiveCfg = DebugClient|Any CPU
+		{5E0597AC-9B27-45B5-9B6A-69D3B85727E5}.DebugClient|Any CPU.Build.0 = DebugClient|Any CPU
+		{5E0597AC-9B27-45B5-9B6A-69D3B85727E5}.DebugServer|Any CPU.ActiveCfg = DebugServer|Any CPU
+		{5E0597AC-9B27-45B5-9B6A-69D3B85727E5}.DebugServer|Any CPU.Build.0 = DebugServer|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
