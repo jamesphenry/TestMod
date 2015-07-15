@@ -1,2 +1,2 @@
 # TestMod
-minecraft 1.8 test mod
+minecraft 1.7.10 test mod
